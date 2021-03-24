@@ -1,2 +1,3 @@
-# olamundo
+# olá,mundo
  primeiro repositorio versionado git e github
+ repositório criado duramte aula ao vivo 
